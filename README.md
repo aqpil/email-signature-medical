@@ -5,7 +5,7 @@ This repository contains three distinct email signature designs created for an i
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Design Variants](#design-variants)
   - [Technical Details](#technical-details)
 - [Author](#author)
