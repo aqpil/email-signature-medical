@@ -14,7 +14,7 @@ This repository contains three distinct email signature designs created for an i
 
 The project consists of three email signature styles, each crafted to suit different preferences while maintaining a cohesive brand identity. The colors and layout are inspired by a logo that conveys the clinic’s approachable yet professional vibe.
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/screenshot-ctrl-alt-heal-background.png)
 ![](./screenshots/screenshot-ctrl-alt-heal-transparent.png)
