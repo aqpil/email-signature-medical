@@ -16,7 +16,8 @@ The project consists of three email signature styles, each crafted to suit diffe
 
 ### Screenshot
 
-![](./screenshots/Screenshot-1.png)
+![](./screenshots/screenshot-ctrl-alt-heal-background.png)
+![](./screenshots/screenshot-ctrl-alt-heal-transparent.png)
 
 ### Design Variants
 
